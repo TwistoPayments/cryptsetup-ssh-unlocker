@@ -5,8 +5,8 @@ import logging
 
 import sys
 
-from client import ServerUnlocker
-from argparser import parser
+from unlocker.client import ServerUnlocker
+from unlocker.argparser import parser
 
 
 def main():

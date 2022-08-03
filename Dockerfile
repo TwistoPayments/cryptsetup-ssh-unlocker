@@ -15,4 +15,4 @@ USER unlocker
 
 WORKDIR /data
 
-CMD [ "python3", "-m", "unlock"]
+CMD [ "ssh-unlocker"]
