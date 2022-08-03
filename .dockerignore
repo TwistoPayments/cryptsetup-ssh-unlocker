@@ -1,0 +1,15 @@
+*.pyc
+.*.swo
+.*.swp
+*.egg-info/
+.DS_Store
+.dockerignore
+.gitignore
+.idea
+.github
+.git
+LICENSE
+*.md
+Dockerfile
+Thumbs.db
+__pycache__
